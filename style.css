@@ -1,0 +1,54 @@
+.container{
+    height: 250px;
+    width: 800px;
+    margin-left: 250px;
+    margin-top: 20px;
+    border: 0.2rem solid black;
+    justify-content:center;
+    justify-items: center;
+    display: flex;
+    border-radius: 5px;
+}
+
+.project{
+    height: 20vmin;
+    width:  100vmin;
+    display: flex;
+    padding-top: 100px;
+     gap: 10vmin;
+     
+   margin-left: 300px;
+  
+     
+}
+
+.box{
+    height: 18vmin;
+    width:  25vmin;
+    border-radius: 1rem;
+    border: none;
+    box-shadow: 0 0 1rem rgb(0, 0, 0, 0.3);
+    font-size: 4vmin;
+    color: white;
+    background-color: #25282f;
+    font-family: 'Times New Roman', Times, serif;
+
+   
+    
+}
+
+.h1{
+    text-align: center;
+    margin-top: 20px;
+    justify-content:center;
+    justify-items: center;
+    display: flex;
+    font-size: 4rem;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
+
+
+
+
